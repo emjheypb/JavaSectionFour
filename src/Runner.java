@@ -8,6 +8,10 @@ public class Runner {
 //        SpeedConverter.printConversion(-5.6); //invalid
 //        SpeedConverter.printConversion(25.42); //16
 //        SpeedConverter.printConversion(75.114); //47
+
+        MegaBytesConverter.printMegaBytesAndKiloBytes(2500);
+        MegaBytesConverter.printMegaBytesAndKiloBytes(-1024);
+        MegaBytesConverter.printMegaBytesAndKiloBytes(5000);
     }
 
 }
