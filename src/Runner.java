@@ -13,10 +13,16 @@ public class Runner {
 //        MegaBytesConverter.printMegaBytesAndKiloBytes(-1024);
 //        MegaBytesConverter.printMegaBytesAndKiloBytes(5000);
 
-        System.out.println(BarkingDog.shouldWakeUp(true, 1));
-        System.out.println(BarkingDog.shouldWakeUp(false, 2));
-        System.out.println(BarkingDog.shouldWakeUp(true, 8));
-        System.out.println(BarkingDog.shouldWakeUp(true, -1));
+//        System.out.println(BarkingDog.shouldWakeUp(true, 1));
+//        System.out.println(BarkingDog.shouldWakeUp(false, 2));
+//        System.out.println(BarkingDog.shouldWakeUp(true, 8));
+//        System.out.println(BarkingDog.shouldWakeUp(true, -1));
+
+        System.out.println(LeapYear.isLeapYear(-1600));
+        System.out.println(LeapYear.isLeapYear(1600));
+        System.out.println(LeapYear.isLeapYear(2017));
+        System.out.println(LeapYear.isLeapYear(2000));
+        System.out.println(LeapYear.isLeapYear(1924));
     }
 
 }
