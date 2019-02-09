@@ -62,13 +62,19 @@ public class Runner {
 //        System.out.println(SecondsAndMinutesChallenge.getDuration(36000));
 //        System.out.println(SecondsAndMinutesChallenge.getDuration(0));
 //        System.out.println(SecondsAndMinutesChallenge.getDuration(-1));
+//
+//        System.out.println();
+//
+//        System.out.println(AreaCalculator.area(5.0));
+//        System.out.println(AreaCalculator.area(-1));
+//        System.out.println(AreaCalculator.area(5.0,4.0));
+//        System.out.println(AreaCalculator.area(-1.0, 4.0));
 
         System.out.println();
 
-        System.out.println(AreaCalculator.area(5.0));
-        System.out.println(AreaCalculator.area(-1));
-        System.out.println(AreaCalculator.area(5.0,4.0));
-        System.out.println(AreaCalculator.area(-1.0, 4.0));
+        MinutesToYearsDaysCalculator.printYearsAndDays(525600);
+        MinutesToYearsDaysCalculator.printYearsAndDays(1051200);
+        MinutesToYearsDaysCalculator.printYearsAndDays(561600);
     }
 
 }

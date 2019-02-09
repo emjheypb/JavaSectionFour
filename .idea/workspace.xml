@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="42" column="33" lean-forward="true" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+            <state relative-caret-position="678">
+              <caret line="76" column="61" selection-start-line="76" selection-start-column="61" selection-end-line="76" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -46,8 +46,9 @@
         <option value="$PROJECT_DIR$/src/EqualSumChecker.java" />
         <option value="$PROJECT_DIR$/src/TeenNumberChecker.java" />
         <option value="$PROJECT_DIR$/src/SecondsAndMinutesChallenge.java" />
-        <option value="$PROJECT_DIR$/src/Runner.java" />
         <option value="$PROJECT_DIR$/src/AreaCalculator.java" />
+        <option value="$PROJECT_DIR$/src/Runner.java" />
+        <option value="$PROJECT_DIR$/src/MinutesToYearsDaysCalculator.java" />
       </list>
     </option>
   </component>
@@ -86,7 +87,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549734194798" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549734747634" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -259,10 +260,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinutesToYearsDaysCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" selection-start-column="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="42" column="33" lean-forward="true" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+        <state relative-caret-position="678">
+          <caret line="76" column="61" selection-start-line="76" selection-start-column="61" selection-end-line="76" selection-end-column="61" />
         </state>
       </provider>
     </entry>
