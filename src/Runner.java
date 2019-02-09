@@ -51,17 +51,24 @@ public class Runner {
 //
 //        System.out.println();
 //
-        System.out.println(SecondsAndMinutesChallenge.getDurationString(70, 59));
-        System.out.println(SecondsAndMinutesChallenge.getDurationString(0, 0));
-        System.out.println(SecondsAndMinutesChallenge.getDurationString(70, 61));
-        System.out.println(SecondsAndMinutesChallenge.getDurationString(70, -1));
-        System.out.println(SecondsAndMinutesChallenge.getDurationString(-1, 59));
+//        System.out.println(SecondsAndMinutesChallenge.getDurationString(70, 59));
+//        System.out.println(SecondsAndMinutesChallenge.getDurationString(0, 0));
+//        System.out.println(SecondsAndMinutesChallenge.getDurationString(70, 61));
+//        System.out.println(SecondsAndMinutesChallenge.getDurationString(70, -1));
+//        System.out.println(SecondsAndMinutesChallenge.getDurationString(-1, 59));
+//
+//        System.out.println();
+//
+//        System.out.println(SecondsAndMinutesChallenge.getDuration(36000));
+//        System.out.println(SecondsAndMinutesChallenge.getDuration(0));
+//        System.out.println(SecondsAndMinutesChallenge.getDuration(-1));
 
         System.out.println();
 
-        System.out.println(SecondsAndMinutesChallenge.getDuration(36000));
-        System.out.println(SecondsAndMinutesChallenge.getDuration(0));
-        System.out.println(SecondsAndMinutesChallenge.getDuration(-1));
+        System.out.println(AreaCalculator.area(5.0));
+        System.out.println(AreaCalculator.area(-1));
+        System.out.println(AreaCalculator.area(5.0,4.0));
+        System.out.println(AreaCalculator.area(-1.0, 4.0));
     }
 
 }
