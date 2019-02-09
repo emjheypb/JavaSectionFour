@@ -18,11 +18,16 @@ public class Runner {
 //        System.out.println(BarkingDog.shouldWakeUp(true, 8));
 //        System.out.println(BarkingDog.shouldWakeUp(true, -1));
 
-        System.out.println(LeapYear.isLeapYear(-1600));
-        System.out.println(LeapYear.isLeapYear(1600));
-        System.out.println(LeapYear.isLeapYear(2017));
-        System.out.println(LeapYear.isLeapYear(2000));
-        System.out.println(LeapYear.isLeapYear(1924));
+//        System.out.println(LeapYear.isLeapYear(-1600));
+//        System.out.println(LeapYear.isLeapYear(1600));
+//        System.out.println(LeapYear.isLeapYear(2017));
+//        System.out.println(LeapYear.isLeapYear(2000));
+//        System.out.println(LeapYear.isLeapYear(1924));
+
+        System.out.println(DecimalComparator.areEqualByThreeDecimalPlaces(-3.1756, -3.175));
+        System.out.println(DecimalComparator.areEqualByThreeDecimalPlaces(3.175, 3.176));
+        System.out.println(DecimalComparator.areEqualByThreeDecimalPlaces(3.0, 3.0));
+        System.out.println(DecimalComparator.areEqualByThreeDecimalPlaces(-3.123, 3.123));
     }
 
 }
